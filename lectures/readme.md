@@ -1,5 +1,5 @@
 ## Table of contents
-1. [Git](./01.git)
+1. [Git](./01-git)
 2. [Intro to programming](./02-Intro%20to%20programming)
 3. [flow of program](./03-flow%20of%20program)
 4. [introduction to java](./04-introduction%20to%20java)
