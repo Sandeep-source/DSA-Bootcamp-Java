@@ -6,6 +6,7 @@
 1. [Introduction to RECURSION in detail hand written notes..pdf](./Introduction%20to%20RECURSION%20in%20detail%20hand%20written%20notes..pdf)
 1. [Merge Sort.pdf](./Merge%20Sort.pdf)
 1. [Quick Sort.pdf](./Quick%20Sort.pdf)
+1. [readme.md](./readme.md)
 1. [Recursion - 1.pdf](./Recursion%20-%201.pdf)
 1. [Recursion - Arrays.pdf](./Recursion%20-%20Arrays.pdf)
 1. [Recursion - Easy.pdf](./Recursion%20-%20Easy.pdf)

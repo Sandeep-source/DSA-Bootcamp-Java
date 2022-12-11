@@ -5,3 +5,4 @@
 1. [Arrays.pdf](./Arrays.pdf)
 1. [code](./code)
 1. [Handwritten notes on arrays and arraylist.pdf](./Handwritten%20notes%20on%20arrays%20and%20arraylist.pdf)
+1. [readme.md](./readme.md)
