@@ -7,5 +7,4 @@
 1. [MultiAL.java](./MultiAL.java)
 1. [MultiDimension.java](./MultiDimension.java)
 1. [PassinginFunctions.java](./PassinginFunctions.java)
-1. [readme.md](./readme.md)
 1. [Swap.java](./Swap.java)

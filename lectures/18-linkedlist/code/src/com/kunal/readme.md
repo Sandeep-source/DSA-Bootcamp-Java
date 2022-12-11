@@ -5,4 +5,3 @@
 1. [LL.java](./LL.java)
 1. [Main.java](./Main.java)
 1. [MergeSort.java](./MergeSort.java)
-1. [readme.md](./readme.md)

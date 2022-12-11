@@ -4,6 +4,5 @@
 1. [easy](./easy)
 1. [intro](./intro)
 1. [patterns](./patterns)
-1. [readme.md](./readme.md)
 1. [sorting](./sorting)
 1. [strings](./strings)

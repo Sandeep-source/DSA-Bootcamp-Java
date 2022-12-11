@@ -6,5 +6,4 @@
 1. [Main.java](./Main.java)
 1. [MissingNumber.java](./MissingNumber.java)
 1. [MissingPositive.java](./MissingPositive.java)
-1. [readme.md](./readme.md)
 1. [SetMismatch.java](./SetMismatch.java)

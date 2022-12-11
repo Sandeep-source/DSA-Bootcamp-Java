@@ -6,5 +6,4 @@
 1. [Fibo.java](./Fibo.java)
 1. [Largest.java](./Largest.java)
 1. [Loops.java](./Loops.java)
-1. [readme.md](./readme.md)
 1. [Reverse.java](./Reverse.java)

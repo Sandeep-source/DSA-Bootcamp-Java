@@ -8,5 +8,4 @@
 1. [Performance.java](./Performance.java)
 1. [placeholders_list.txt](./placeholders_list.txt)
 1. [PrettyPrinting.java](./PrettyPrinting.java)
-1. [readme.md](./readme.md)
 1. [SB.java](./SB.java)

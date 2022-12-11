@@ -3,4 +3,3 @@
 1. [intro-to-programming.png](./intro-to-programming.png)
 1. [Introduction to programming.pdf](./Introduction%20to%20programming.pdf)
 1. [Intro_to_Programming_Notes.pdf](./Intro_to_Programming_Notes.pdf)
-1. [readme.md](./readme.md)

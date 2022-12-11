@@ -3,4 +3,3 @@
 1. [Bitwise.pdf](./Bitwise.pdf)
 1. [code](./code)
 1. [Maths.pdf](./Maths.pdf)
-1. [readme.md](./readme.md)

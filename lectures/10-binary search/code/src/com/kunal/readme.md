@@ -7,7 +7,6 @@
 1. [Mountain.java](./Mountain.java)
 1. [OrderAgnosticBS.java](./OrderAgnosticBS.java)
 1. [RBS.java](./RBS.java)
-1. [readme.md](./readme.md)
 1. [RotationCount.java](./RotationCount.java)
 1. [RowColMatrix.java](./RowColMatrix.java)
 1. [SearchInMountain.java](./SearchInMountain.java)

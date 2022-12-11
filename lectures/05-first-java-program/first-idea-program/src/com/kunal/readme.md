@@ -4,7 +4,6 @@
 1. [Main.java](./Main.java)
 1. [Prime.java](./Prime.java)
 1. [Primitives.java](./Primitives.java)
-1. [readme.md](./readme.md)
 1. [Sum.java](./Sum.java)
 1. [Temperature.java](./Temperature.java)
 1. [TypeCasting.java](./TypeCasting.java)

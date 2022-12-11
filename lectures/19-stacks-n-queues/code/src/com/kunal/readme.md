@@ -6,6 +6,5 @@
 1. [DynamicStack.java](./DynamicStack.java)
 1. [InBuiltExamples.java](./InBuiltExamples.java)
 1. [QueueMain.java](./QueueMain.java)
-1. [readme.md](./readme.md)
 1. [StackException.java](./StackException.java)
 1. [StackMain.java](./StackMain.java)

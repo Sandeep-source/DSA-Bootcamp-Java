@@ -7,5 +7,4 @@
 1. [Handwritten Notes on Insertion Sort.pdf.pdf](./Handwritten%20Notes%20on%20Insertion%20Sort.pdf.pdf)
 1. [Handwritten notes on Selection sort.pdf.pdf](./Handwritten%20notes%20on%20Selection%20sort.pdf.pdf)
 1. [Insertion Sort.pdf](./Insertion%20Sort.pdf)
-1. [readme.md](./readme.md)
 1. [Selection Sort.pdf](./Selection%20Sort.pdf)

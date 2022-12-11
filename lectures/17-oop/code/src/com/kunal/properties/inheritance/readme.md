@@ -4,4 +4,3 @@
 1. [BoxPrice.java](./BoxPrice.java)
 1. [BoxWeight.java](./BoxWeight.java)
 1. [Main.java](./Main.java)
-1. [readme.md](./readme.md)

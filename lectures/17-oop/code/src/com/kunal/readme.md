@@ -10,6 +10,5 @@
 1. [introduction](./introduction)
 1. [packages](./packages)
 1. [properties](./properties)
-1. [readme.md](./readme.md)
 1. [singleton](./singleton)
 1. [staticExample](./staticExample)

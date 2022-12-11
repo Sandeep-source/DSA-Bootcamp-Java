@@ -3,5 +3,4 @@
 1. [big_O.png](./big_O.png)
 1. [code](./code)
 1. [Complexity Analysis.pdf](./Complexity%20Analysis.pdf)
-1. [readme.md](./readme.md)
 1. [Time and space notes](./Time%20and%20space%20notes)

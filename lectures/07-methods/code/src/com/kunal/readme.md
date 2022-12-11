@@ -5,7 +5,6 @@
 1. [Overloading.java](./Overloading.java)
 1. [PassingExample.java](./PassingExample.java)
 1. [Questions.java](./Questions.java)
-1. [readme.md](./readme.md)
 1. [Scope.java](./Scope.java)
 1. [Shadowing.java](./Shadowing.java)
 1. [StringExample.java](./StringExample.java)
