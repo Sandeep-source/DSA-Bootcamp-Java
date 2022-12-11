@@ -1,0 +1,10 @@
+## Tables of content
+1. [Basics.java](./Basics.java)
+1. [Inputs.java](./Inputs.java)
+1. [Main.java](./Main.java)
+1. [Prime.java](./Prime.java)
+1. [Primitives.java](./Primitives.java)
+1. [readme.md](./readme.md)
+1. [Sum.java](./Sum.java)
+1. [Temperature.java](./Temperature.java)
+1. [TypeCasting.java](./TypeCasting.java)
