@@ -1,8 +1,5 @@
 ## Tables of content
-1. [.gitignore](./.gitignore)
-1. [description.html](./description.html)
-1. [encodings.xml](./encodings.xml)
-1. [misc.xml](./misc.xml)
-1. [modules.xml](./modules.xml)
-1. [project-template.xml](./project-template.xml)
-1. [vcs.xml](./vcs.xml)
+1. [.idea](./.idea)
+1. [src](./src)
+1. [Handwritten notes switch cases.pdf](./Handwritten%20notes%20switch%20cases.pdf)
+
