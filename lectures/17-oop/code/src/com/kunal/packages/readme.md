@@ -1,2 +1,3 @@
 ## Tables of content
-1. [Greeting.java](./Greeting.java)
+1. [a](./a)
+1. [b](./b)

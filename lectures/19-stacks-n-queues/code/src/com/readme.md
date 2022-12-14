@@ -1,10 +1,2 @@
 ## Tables of content
-1. [CircularQueue.java](./CircularQueue.java)
-1. [CustomQueue.java](./CustomQueue.java)
-1. [CustomStack.java](./CustomStack.java)
-1. [DynamicQueue.java](./DynamicQueue.java)
-1. [DynamicStack.java](./DynamicStack.java)
-1. [InBuiltExamples.java](./InBuiltExamples.java)
-1. [QueueMain.java](./QueueMain.java)
-1. [StackException.java](./StackException.java)
-1. [StackMain.java](./StackMain.java)
+1. [kunal](./kunal)

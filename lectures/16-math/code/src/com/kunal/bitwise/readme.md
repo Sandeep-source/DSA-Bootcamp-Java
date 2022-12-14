@@ -1,0 +1,10 @@
+## Tables of content
+1. [FindUnique.java](./FindUnique.java)
+1. [FlipImage.java](./FlipImage.java)
+1. [MagicNumber.java](./MagicNumber.java)
+1. [NoOfDigits.java](./NoOfDigits.java)
+1. [OddEven.java](./OddEven.java)
+1. [Power.java](./Power.java)
+1. [PowOfTwo.java](./PowOfTwo.java)
+1. [RangeXOR.java](./RangeXOR.java)
+1. [SetBits.java](./SetBits.java)

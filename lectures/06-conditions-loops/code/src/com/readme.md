@@ -1,9 +1,2 @@
 ## Tables of content
-1. [Calculator.java](./Calculator.java)
-1. [CaseCheck.java](./CaseCheck.java)
-1. [Conditionals.java](./Conditionals.java)
-1. [CountNums.java](./CountNums.java)
-1. [Fibo.java](./Fibo.java)
-1. [Largest.java](./Largest.java)
-1. [Loops.java](./Loops.java)
-1. [Reverse.java](./Reverse.java)
+1. [kunal](./kunal)
