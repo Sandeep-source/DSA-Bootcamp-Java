@@ -1,0 +1,11 @@
+## Tables of content
+1. [Comparison.java](./Comparison.java)
+1. [Main.java](./Main.java)
+1. [Methods.java](./Methods.java)
+1. [Operators.java](./Operators.java)
+1. [Output.java](./Output.java)
+1. [Palin.java](./Palin.java)
+1. [Performance.java](./Performance.java)
+1. [placeholders_list.txt](./placeholders_list.txt)
+1. [PrettyPrinting.java](./PrettyPrinting.java)
+1. [SB.java](./SB.java)

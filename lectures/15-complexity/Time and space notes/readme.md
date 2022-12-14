@@ -1,0 +1,11 @@
+## Tables of content
+1. [Akra bazzi.pdf](./Akra%20bazzi.pdf)
+1. [big omega.pdf](./big%20omega.pdf)
+1. [big-oh notation .pdf](./big-oh%20notation%20.pdf)
+1. [Divide and conquer .pdf](./Divide%20and%20conquer%20.pdf)
+1. [linear recurrence .pdf](./linear%20recurrence%20.pdf)
+1. [little oh.pdf](./little%20oh.pdf)
+1. [little omega.pdf](./little%20omega.pdf)
+1. [recursive algorithm .pdf](./recursive%20algorithm%20.pdf)
+1. [space complexity .pdf](./space%20complexity%20.pdf)
+1. [time complexity .pdf](./time%20complexity%20.pdf)
