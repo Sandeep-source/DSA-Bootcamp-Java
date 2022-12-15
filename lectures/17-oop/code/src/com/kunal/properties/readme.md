@@ -1,3 +1,3 @@
 ## Tables of content
-- 📁[ ] [inheritance](./inheritance)
-- 📁[ ] [polymorphism](./polymorphism)
+- [ ] 📁 [inheritance](./inheritance)
+- [ ] 📁 [polymorphism](./polymorphism)

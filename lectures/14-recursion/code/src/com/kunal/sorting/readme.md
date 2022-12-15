@@ -1,3 +1,3 @@
 ## Tables of content
-- 📄[ ] [MergeSort.java](./MergeSort.java)
-- 📄[ ] [QuickSort.java](./QuickSort.java)
+- [ ] 📄 [MergeSort.java](./MergeSort.java)
+- [ ] 📄 [QuickSort.java](./QuickSort.java)

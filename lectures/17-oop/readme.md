@@ -1,3 +1,3 @@
 ## Tables of content
-- 📁[ ] [code](./code)
-- 📁[ ] [notes](./notes)
+- [ ] 📁 [code](./code)
+- [ ] 📁 [notes](./notes)
