@@ -1,3 +1,3 @@
 ## Tables of content
-1. [Greeting.java](./Greeting.java)
-1. [Message.java](./Message.java)
+- 📄 [Greeting.java](./Greeting.java)
+- 📄 [Message.java](./Message.java)
