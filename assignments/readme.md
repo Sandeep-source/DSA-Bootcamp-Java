@@ -1,6 +1,6 @@
 ## Tables of content
-- [ ] 📄 [01-flow-of-program.md](./01-flow-of-program.md)
-- [ ] 📄 [02-first-java.md](./02-first-java.md)
+- [x] 📄 [01-flow-of-program.md](./01-flow-of-program.md)
+- [x] 📄 [02-first-java.md](./02-first-java.md)
 - [ ] 📄 [03-conditionals-loops.md](./03-conditionals-loops.md)
 - [ ] 📄 [04-functions.md](./04-functions.md)
 - [ ] 📄 [05-arrays.md](./05-arrays.md)
