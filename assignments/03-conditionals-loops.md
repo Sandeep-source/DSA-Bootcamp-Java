@@ -2,10 +2,10 @@
 ## Write Java programs for the following: 
 
 ### Basic Java Programs
-- [ ] Area Of Circle Java Program
-- [ ] Area Of Triangle
-- [ ] Area Of Rectangle Program 
-- [ ] Area Of Isosceles Triangle 
+- [x] Area Of Circle Java Program
+- [x] Area Of Triangle
+- [x] Area Of Rectangle Program 
+- [x] Area Of Isosceles Triangle 
 - [ ] Area Of Parallelogram
 - [ ] Area Of Rhombus
 - [ ] Area Of Equilateral Triangle
