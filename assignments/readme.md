@@ -2,7 +2,7 @@
 - [x] 📄 [01-flow-of-program.md](./01-flow-of-program.md)
 - [x] 📄 [02-first-java.md](./02-first-java.md)
 - [x] 📄 [03-conditionals-loops.md](./03-conditionals-loops.md)
-- [ ] 📄 [04-functions.md](./04-functions.md)
+- [x] 📄 [04-functions.md](./04-functions.md)
 - [ ] 📄 [05-arrays.md](./05-arrays.md)
 - [ ] 📄 [06-searching.md](./06-searching.md)
 - [ ] 📄 [07-sorting.md](./07-sorting.md)
