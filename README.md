@@ -15,7 +15,8 @@
  
 - <a href="./assignments" title="Click here to see Assignments related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">✍️ Assignments (Solutions can be found on LeetCode itself)</a>
 
-- <a href="./Solutions" title="Click here to see Assignments related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> 💡 Soulutions by <a href="https://github.com/Sandeep-source">me</a>
+- <a href="./Solut
+ions" title="Click here to see Assignments related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> 💡 Soulutions by <a href="https://github.com/Sandeep-source">me</a>
 
 - <a href="https://github.com/kunal-kushwaha/Competitive-Programming-Resources" title="CP Lover? Click here to get some awesome resources related to Competitive Programming" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🏆 Competitive Programming Resources</a>
 

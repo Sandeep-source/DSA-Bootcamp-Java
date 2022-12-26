@@ -1,4 +1,5 @@
 ```java
+package easy;
 class Solution {
     //https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number
     public int[] smallerNumbersThanCurrent(int[] nums) {

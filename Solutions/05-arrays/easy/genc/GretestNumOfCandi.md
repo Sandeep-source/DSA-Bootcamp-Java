@@ -1,4 +1,5 @@
 ```java
+package easy;
 import java.util.ArrayList;
 import java.util.List;
 

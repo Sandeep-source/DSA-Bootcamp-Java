@@ -1,3 +1,4 @@
+package easy;
 class Solution {
     //https://leetcode.com/problems/number-of-good-pairs
     public int numIdenticalPairs(int[] nums) {

@@ -1,4 +1,5 @@
 ```java
+package easy;
 class Solution {
     //https://leetcode.com/problems/check-if-the-sentence-is-pangram
     public boolean checkIfPangram(String sentence) {

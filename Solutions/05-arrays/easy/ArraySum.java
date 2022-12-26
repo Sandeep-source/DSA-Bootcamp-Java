@@ -1,3 +1,4 @@
+package easy;
 class Solution {
     //https://leetcode.com/problems/running-sum-of-1d-array
     public int[] runningSum(int[] nums) {

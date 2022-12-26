@@ -1,4 +1,5 @@
 ```java
+package easy;
 class Solution {
     //https://leetcode.com/problems/shuffle-the-array
     public int[] shuffle(int[] nums, int n) {

@@ -1,4 +1,5 @@
 ```java
+package easy;
 class Solution {
     //https://leetcode.com/problems/richest-customer-wealth
     public int maximumWealth(int[][] accounts) {

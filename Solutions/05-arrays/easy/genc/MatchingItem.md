@@ -1,4 +1,5 @@
 ```java
+package easy;
 import java.util.List;
 class Solution {
     //https://leetcode.com/problems/count-items-matching-a-rule
