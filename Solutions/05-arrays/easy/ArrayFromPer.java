@@ -1,3 +1,4 @@
+package easy;
 class Solution {
     //https://leetcode.com/problems/build-array-from-permutation/
     public int[] buildArray(int[] nums) {
