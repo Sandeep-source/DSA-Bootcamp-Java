@@ -27,9 +27,9 @@
 - [x] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 - [x] [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-- [ ] [Plus One](https://leetcode.com/problems/plus-one/)
-- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- [x] [Plus One](https://leetcode.com/problems/plus-one/)
+- [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
