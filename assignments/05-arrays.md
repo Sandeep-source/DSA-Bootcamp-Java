@@ -34,9 +34,9 @@
 
 ### Medium
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-- [ ] [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+- [x] [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
