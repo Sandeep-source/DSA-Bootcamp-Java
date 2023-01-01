@@ -30,10 +30,10 @@
 - [x] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 - [x] [Plus One](https://leetcode.com/problems/plus-one/)
 - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+- [x] [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [ ] [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
