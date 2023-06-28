@@ -1,0 +1,10 @@
+## Tables of content
+- 🤣 [BinarySearchSQRT.java](./BinarySearchSQRT.java)
+- 🤣 [Factors.java](./Factors.java)
+- 🤣 [GCD_LCM.java](./GCD_LCM.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [NewtonSQRT.java](./NewtonSQRT.java)
+- 🤣 [Prime.java](./Prime.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Seive.java](./Seive.java)

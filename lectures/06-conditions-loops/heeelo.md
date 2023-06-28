@@ -1,0 +1,9 @@
+## Tables of content
+- 😂 [code](./code)
+- 🤣 [Conditionals-Loops.pdf](./Conditionals-Loops.pdf)
+- 🤣 [Conditionals_And_Loops.pdf](./Conditionals_And_Loops.pdf)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [readme.md](./readme.md)
+- 😂 [switch](./switch)
+- 🤣 [switch.png](./switch.png)

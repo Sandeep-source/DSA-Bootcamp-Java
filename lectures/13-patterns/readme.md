@@ -1,3 +1,7 @@
 ## Tables of content
-- [ ] 📁 [code](./code)
-- [ ] 📄 [Patterns.pdf](./Patterns.pdf)
+- 😂 [code](./code)
+- 🤣 [heeelo.md](./heeelo.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Patterns.pdf](./Patterns.pdf)
+- 🤣 [readme.md](./readme.md)

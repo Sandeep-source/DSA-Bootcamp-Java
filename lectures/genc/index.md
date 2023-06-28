@@ -1,0 +1,232 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body{
+            padding: 0px;
+            margin: 0px;
+        }
+       .outer{
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: auto 20% 10%;
+        text-decoration: none;
+        color: black;
+        background-color: rgba(200, 200,200,.2);
+        box-shadow: 1px 1px 5px #aaaaaa;
+        border-radius: 5px;
+       }
+       .outer:hover{
+        background-color: rgba(200, 200,200,.3);
+        transform: scale(1.1);
+        transition: .2s all;
+       }
+       .outer img{
+        width: 200px;
+        height: 200px;
+        align-self: center;
+       }
+       .outer p{
+        padding: 0px 0px 10px 10px;
+        font-weight: bold;
+       }
+       #container{
+               margin:0px 10% 0px 10%;
+        }
+        #home{
+                padding:10px;
+                margin: 10px;
+                box-shadow: 2px 2px 5px #454545;
+                border-radius: 2px;
+                display: inline-block;
+                text-decoration: none;
+        }
+        #grid-con{
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            gap: 20px;
+        }
+    
+        @media screen and (max-width:1000px) {
+           #grid-con{
+            grid-template-columns: auto auto auto;
+           }
+        }
+        @media screen and (max-width:800px) {
+            #grid-con{
+            grid-template-columns: auto auto;
+           }
+        }
+        .no-com{
+            text-align: center;
+            background-color: gray;
+        }
+        .com{
+            text-align: center;
+            background-color: seagreen;
+            color: white;
+        }
+        .com::before{
+            content: "✅ Completed";
+        }
+        .no-com::before{
+            content: "🎯 Not Completed yet";
+        }
+    </style>
+</head>
+<body>
+<div id="container">
+<h3> Table of content </h3><br>
+<a href="/" id="home">Home</a>
+<div id="grid-con">
+   <div class="col mb-4">
+                    <div><a href="01-git"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">01-git</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="02-intro%20to%20programming"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">02-intro to programming</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="03-flow%20of%20program"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">03-flow of program</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="04-introduction%20to%20java"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">04-introduction to java</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="05-first-java-program"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">05-first-java-program</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="06-conditions-loops"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">06-conditions-loops</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="07-methods"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">07-methods</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="08-arrays"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">08-arrays</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="09-linear%20search"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">09-linear search</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="10-binary%20search"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">10-binary search</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="11-sorting"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">11-sorting</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="12-strings"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">12-strings</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="13-patterns"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">13-patterns</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="14-recursion"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">14-recursion</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="15-complexity"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">15-complexity</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="16-math"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">16-math</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="17-oop"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">17-oop</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="18-linkedlist"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">18-linkedlist</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="19-stacks-n-queues"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/folder.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">19-stacks-n-queues</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="readme"><img class="rounded img-fluid shadow w-100 fit-cover" src="./genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">readme.md</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div>
+</div>
+</div>
+</body>
+</html>
+```

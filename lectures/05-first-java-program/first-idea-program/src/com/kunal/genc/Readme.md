@@ -1,0 +1,12 @@
+## Tables of content
+- 🤣 [Basics.md](./Basics.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Inputs.md](./Inputs.md)
+- 🤣 [Main.md](./Main.md)
+- 🤣 [Prime.md](./Prime.md)
+- 🤣 [Primitives.md](./Primitives.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [Sum.md](./Sum.md)
+- 🤣 [Temperature.md](./Temperature.md)
+- 🤣 [TypeCasting.md](./TypeCasting.md)

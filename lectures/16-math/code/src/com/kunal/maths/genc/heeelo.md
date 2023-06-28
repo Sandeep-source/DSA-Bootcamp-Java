@@ -1,0 +1,10 @@
+## Tables of content
+- 🤣 [BinarySearchSQRT.md](./BinarySearchSQRT.md)
+- 🤣 [Factors.md](./Factors.md)
+- 🤣 [GCD_LCM.md](./GCD_LCM.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [NewtonSQRT.md](./NewtonSQRT.md)
+- 🤣 [Prime.md](./Prime.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [Seive.md](./Seive.md)

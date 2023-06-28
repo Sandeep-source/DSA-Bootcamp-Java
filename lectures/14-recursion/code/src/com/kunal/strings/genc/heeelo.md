@@ -1,0 +1,11 @@
+## Tables of content
+- 🤣 [Ascii.md](./Ascii.md)
+- 🤣 [Dice.md](./Dice.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Permutations.md](./Permutations.md)
+- 🤣 [PhonePad.md](./PhonePad.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [Stream.md](./Stream.md)
+- 🤣 [SubSeq.md](./SubSeq.md)
+- 🤣 [SubSet.md](./SubSet.md)

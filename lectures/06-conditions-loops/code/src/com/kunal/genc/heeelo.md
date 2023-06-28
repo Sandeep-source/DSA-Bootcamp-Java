@@ -1,0 +1,12 @@
+## Tables of content
+- 🤣 [Calculator.md](./Calculator.md)
+- 🤣 [CaseCheck.md](./CaseCheck.md)
+- 🤣 [Conditionals.md](./Conditionals.md)
+- 🤣 [CountNums.md](./CountNums.md)
+- 🤣 [Fibo.md](./Fibo.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Largest.md](./Largest.md)
+- 🤣 [Loops.md](./Loops.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [Reverse.md](./Reverse.md)

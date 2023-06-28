@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [CircularQueue.java](./CircularQueue.java)
+- 🤣 [CustomQueue.java](./CustomQueue.java)
+- 🤣 [CustomStack.java](./CustomStack.java)
+- 🤣 [DynamicQueue.java](./DynamicQueue.java)
+- 🤣 [DynamicStack.java](./DynamicStack.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [InBuiltExamples.java](./InBuiltExamples.java)
+- 🤣 [index.html](./index.html)
+- 🤣 [QueueMain.java](./QueueMain.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [StackException.java](./StackException.java)
+- 🤣 [StackMain.java](./StackMain.java)

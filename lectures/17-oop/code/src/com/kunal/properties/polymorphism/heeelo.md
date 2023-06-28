@@ -1,0 +1,11 @@
+## Tables of content
+- 🤣 [Circle.java](./Circle.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [Numbers.java](./Numbers.java)
+- 🤣 [ObjectPrint.java](./ObjectPrint.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Shapes.java](./Shapes.java)
+- 🤣 [Square.java](./Square.java)
+- 🤣 [Triangle.java](./Triangle.java)

@@ -1,0 +1,11 @@
+## Tables of content
+- 🤣 [EvenDigits.java](./EvenDigits.java)
+- 🤣 [FindMin.java](./FindMin.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [MaxWealth.java](./MaxWealth.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [SearchIn2DArray.java](./SearchIn2DArray.java)
+- 🤣 [SearchInRange.java](./SearchInRange.java)
+- 🤣 [SearchInStrings.java](./SearchInStrings.java)

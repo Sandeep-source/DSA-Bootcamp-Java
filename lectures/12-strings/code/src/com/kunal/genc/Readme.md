@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [Comparison.md](./Comparison.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Main.md](./Main.md)
+- 🤣 [Methods.md](./Methods.md)
+- 🤣 [Operators.md](./Operators.md)
+- 🤣 [Output.md](./Output.md)
+- 🤣 [Palin.md](./Palin.md)
+- 🤣 [Performance.md](./Performance.md)
+- 🤣 [PrettyPrinting.md](./PrettyPrinting.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [SB.md](./SB.md)

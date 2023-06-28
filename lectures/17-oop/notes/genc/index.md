@@ -1,0 +1,239 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>17-oop\notes</title>
+    <style>
+        body{
+            padding: 0px;
+            margin: 0px;
+        }
+       .outer{
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: auto 20% 10%;
+        text-decoration: none;
+        color: black;
+        background-color: rgba(200, 200,200,.2);
+        box-shadow: 1px 1px 5px #aaaaaa;
+        border-radius: 5px;
+       }
+       .outer:hover{
+        background-color: rgba(200, 200,200,.3);
+        transform: scale(1.1);
+        transition: .2s all;
+       }
+       .outer img{
+        width: 200px;
+        height: 200px;
+        align-self: center;
+       }
+       .outer p{
+        padding: 0px 0px 10px 10px;
+        font-weight: bold;
+       }
+       #container{
+               margin:0px 10% 0px 10%;
+        }
+        #home{
+                padding:10px;
+                margin: 10px;
+                box-shadow: 2px 2px 5px #454545;
+                border-radius: 2px;
+                display: inline-block;
+                text-decoration: none;
+        }
+        #grid-con{
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            gap: 20px;
+        }
+    
+        @media screen and (max-width:1000px) {
+           #grid-con{
+            grid-template-columns: auto auto auto;
+           }
+        }
+        @media screen and (max-width:800px) {
+            #grid-con{
+            grid-template-columns: auto auto;
+           }
+        }
+        .no-com{
+            text-align: center;
+            background-color: gray;
+        }
+        .com{
+            text-align: center;
+            background-color: seagreen;
+            color: white;
+        }
+        .com::before{
+            content: "✅ Completed";
+        }
+        .no-com::before{
+            content: "🎯 Not Completed yet";
+        }
+    </style>
+</head>
+<body>
+<div id="container">
+<h3> Table of content </h3><br>
+<a href="/../../" id="home">Home</a>
+<div id="grid-con">
+   <div class="col mb-4">
+                    <div><a href="abstract.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">abstract.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="Abstraction%20Vs%20Encapsulation.png"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">Abstraction Vs Encapsulation.png</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="access_control.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">access_control.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="classes.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">classes.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="constructors_this_finalize.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">constructors_this_finalize.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="inheritance.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">inheritance.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="interface.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">interface.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="java-access-modifiers-table-1.png"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">java-access-modifiers-table-1.png</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="notes.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">notes.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="OOP%20-%202.pdf"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">OOP - 2.pdf</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="OOP%20-%203.pdf"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">OOP - 3.pdf</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="OOP%20-%204.pdf"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">OOP - 4.pdf</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="OOP%20-%206.pdf"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">OOP - 6.pdf</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="OOP%20-%207.pdf"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">OOP - 7.pdf</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="OOP%20-%208.pdf"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">OOP - 8.pdf</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="OOP-1.pdf"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">OOP-1.pdf</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="overloading.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">overloading.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="overriding.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">overriding.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="packages.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">packages.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="readme"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">readme.md</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div><div class="col mb-4">
+                    <div><a href="static.txt"><img class="rounded img-fluid shadow w-100 fit-cover" src="./../../genstatic/file.png" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">static.txt</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+</div>
+</div>
+</div>
+</body>
+</html>
+```

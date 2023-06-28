@@ -1,0 +1,12 @@
+## Tables of content
+- 🤣 [CyclicSort.java](./CyclicSort.java)
+- 🤣 [FindAllDuplicates.java](./FindAllDuplicates.java)
+- 🤣 [FindAllMissing.java](./FindAllMissing.java)
+- 🤣 [FindDuplicate.java](./FindDuplicate.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [MissingNumber.java](./MissingNumber.java)
+- 🤣 [MissingPositive.java](./MissingPositive.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [SetMismatch.java](./SetMismatch.java)

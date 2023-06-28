@@ -1,0 +1,10 @@
+## Tables of content
+- 🤣 [CustomArrayList.md](./CustomArrayList.md)
+- 🤣 [CustomGenArrayList.md](./CustomGenArrayList.md)
+- 🤣 [GenericInterface.md](./GenericInterface.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [LambdaFunctions.md](./LambdaFunctions.md)
+- 🤣 [Main.md](./Main.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [WildcardExample.md](./WildcardExample.md)

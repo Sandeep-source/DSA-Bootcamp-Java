@@ -1,0 +1,11 @@
+## Tables of content
+- 😂 [comparing](./comparing)
+- 🤣 [CustomArrayList.java](./CustomArrayList.java)
+- 🤣 [CustomGenArrayList.java](./CustomGenArrayList.java)
+- 🤣 [GenericInterface.java](./GenericInterface.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [LambdaFunctions.java](./LambdaFunctions.java)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [WildcardExample.java](./WildcardExample.java)

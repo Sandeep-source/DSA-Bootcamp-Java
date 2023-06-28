@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [CountZeros.md](./CountZeros.md)
+- 🤣 [DigitProduct.md](./DigitProduct.md)
+- 🤣 [DigitSum.md](./DigitSum.md)
+- 🤣 [Fact.md](./Fact.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Nto1.md](./Nto1.md)
+- 🤣 [Palindrome.md](./Palindrome.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [Reverse.md](./Reverse.md)
+- 🤣 [Steps.md](./Steps.md)
+- 🤣 [Sum.md](./Sum.md)

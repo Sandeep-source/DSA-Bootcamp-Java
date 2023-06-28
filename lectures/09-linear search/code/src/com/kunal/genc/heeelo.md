@@ -1,0 +1,11 @@
+## Tables of content
+- 🤣 [EvenDigits.md](./EvenDigits.md)
+- 🤣 [FindMin.md](./FindMin.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Main.md](./Main.md)
+- 🤣 [MaxWealth.md](./MaxWealth.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [SearchIn2DArray.md](./SearchIn2DArray.md)
+- 🤣 [SearchInRange.md](./SearchInRange.md)
+- 🤣 [SearchInStrings.md](./SearchInStrings.md)

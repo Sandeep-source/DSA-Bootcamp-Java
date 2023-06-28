@@ -1,4 +1,8 @@
 ## Tables of content
-- [ ] 📁 [code](./code)
-- [ ] 📄 [LinkedList - Questions.pdf](./LinkedList%20-%20Questions.pdf)
-- [ ] 📄 [LinkedList.pdf](./LinkedList.pdf)
+- 😂 [code](./code)
+- 🤣 [heeelo.md](./heeelo.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [LinkedList - Questions.pdf](./LinkedList%20-%20Questions.pdf)
+- 🤣 [LinkedList.pdf](./LinkedList.pdf)
+- 🤣 [readme.md](./readme.md)

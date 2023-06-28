@@ -1,0 +1,11 @@
+## Tables of content
+- 🤣 [Circle.md](./Circle.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Main.md](./Main.md)
+- 🤣 [Numbers.md](./Numbers.md)
+- 🤣 [ObjectPrint.md](./ObjectPrint.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [Shapes.md](./Shapes.md)
+- 🤣 [Square.md](./Square.md)
+- 🤣 [Triangle.md](./Triangle.md)

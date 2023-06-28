@@ -1,0 +1,10 @@
+## Tables of content
+- 🤣 [CLL.java](./CLL.java)
+- 🤣 [DLL.java](./DLL.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [InterviewQuestions.java](./InterviewQuestions.java)
+- 🤣 [LL.java](./LL.java)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [MergeSort.java](./MergeSort.java)
+- 🤣 [readme.md](./readme.md)

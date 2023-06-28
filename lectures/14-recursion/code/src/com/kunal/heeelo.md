@@ -1,0 +1,11 @@
+## Tables of content
+- 😂 [arrays](./arrays)
+- 😂 [backtracking](./backtracking)
+- 😂 [easy](./easy)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 😂 [intro](./intro)
+- 😂 [patterns](./patterns)
+- 🤣 [readme.md](./readme.md)
+- 😂 [sorting](./sorting)
+- 😂 [strings](./strings)

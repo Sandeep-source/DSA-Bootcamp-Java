@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [Bubble Sort.pdf](./Bubble%20Sort.pdf)
+- 😂 [code](./code)
+- 🤣 [Cyclic Sort.pdf](./Cyclic%20Sort.pdf)
+- 🤣 [cyclic_sort_notes.pdf](./cyclic_sort_notes.pdf)
+- 🤣 [Handwritten notes on bubble sort.pdf.pdf](./Handwritten%20notes%20on%20bubble%20sort.pdf.pdf)
+- 🤣 [Handwritten Notes on Insertion Sort.pdf.pdf](./Handwritten%20Notes%20on%20Insertion%20Sort.pdf.pdf)
+- 🤣 [Handwritten notes on Selection sort.pdf.pdf](./Handwritten%20notes%20on%20Selection%20sort.pdf.pdf)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Insertion Sort.pdf](./Insertion%20Sort.pdf)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Selection Sort.pdf](./Selection%20Sort.pdf)

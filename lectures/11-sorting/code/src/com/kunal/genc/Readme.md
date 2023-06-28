@@ -1,0 +1,12 @@
+## Tables of content
+- 🤣 [CyclicSort.md](./CyclicSort.md)
+- 🤣 [FindAllDuplicates.md](./FindAllDuplicates.md)
+- 🤣 [FindAllMissing.md](./FindAllMissing.md)
+- 🤣 [FindDuplicate.md](./FindDuplicate.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [Main.md](./Main.md)
+- 🤣 [MissingNumber.md](./MissingNumber.md)
+- 🤣 [MissingPositive.md](./MissingPositive.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [SetMismatch.md](./SetMismatch.md)

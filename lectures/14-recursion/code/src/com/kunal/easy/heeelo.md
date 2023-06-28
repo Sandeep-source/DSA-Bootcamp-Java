@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [CountZeros.java](./CountZeros.java)
+- 🤣 [DigitProduct.java](./DigitProduct.java)
+- 🤣 [DigitSum.java](./DigitSum.java)
+- 🤣 [Fact.java](./Fact.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Nto1.java](./Nto1.java)
+- 🤣 [Palindrome.java](./Palindrome.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Reverse.java](./Reverse.java)
+- 🤣 [Steps.java](./Steps.java)
+- 🤣 [Sum.java](./Sum.java)

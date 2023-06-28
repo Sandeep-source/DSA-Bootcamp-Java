@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [FindUnique.md](./FindUnique.md)
+- 🤣 [FlipImage.md](./FlipImage.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.md](./index.md)
+- 🤣 [MagicNumber.md](./MagicNumber.md)
+- 🤣 [NoOfDigits.md](./NoOfDigits.md)
+- 🤣 [OddEven.md](./OddEven.md)
+- 🤣 [Power.md](./Power.md)
+- 🤣 [PowOfTwo.md](./PowOfTwo.md)
+- 🤣 [RangeXOR.md](./RangeXOR.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [SetBits.md](./SetBits.md)

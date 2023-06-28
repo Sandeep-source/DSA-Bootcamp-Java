@@ -1,0 +1,9 @@
+## Tables of content
+- 🤣 [Daughter.java](./Daughter.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [Parent.java](./Parent.java)
+- 🤣 [Parent2.java](./Parent2.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Son.java](./Son.java)

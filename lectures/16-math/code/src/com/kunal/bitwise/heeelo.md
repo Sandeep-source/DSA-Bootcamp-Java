@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [FindUnique.java](./FindUnique.java)
+- 🤣 [FlipImage.java](./FlipImage.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [MagicNumber.java](./MagicNumber.java)
+- 🤣 [NoOfDigits.java](./NoOfDigits.java)
+- 🤣 [OddEven.java](./OddEven.java)
+- 🤣 [Power.java](./Power.java)
+- 🤣 [PowOfTwo.java](./PowOfTwo.java)
+- 🤣 [RangeXOR.java](./RangeXOR.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [SetBits.java](./SetBits.java)

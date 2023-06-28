@@ -1,0 +1,11 @@
+## Tables of content
+- 🤣 [Ascii.java](./Ascii.java)
+- 🤣 [Dice.java](./Dice.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Permutations.java](./Permutations.java)
+- 🤣 [PhonePad.java](./PhonePad.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Stream.java](./Stream.java)
+- 🤣 [SubSeq.java](./SubSeq.java)
+- 🤣 [SubSet.java](./SubSet.java)

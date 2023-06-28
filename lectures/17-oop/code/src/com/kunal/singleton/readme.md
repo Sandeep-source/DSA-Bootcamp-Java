@@ -1,5 +1,9 @@
 ## Tables of content
-- [ ] 📄 [Main.java](./Main.java)
-- [ ] 📄 [NotSubClass.java](./NotSubClass.java)
-- [ ] 📄 [Singleton.java](./Singleton.java)
-- [ ] 📄 [SubClass.java](./SubClass.java)
+- 🤣 [heeelo.md](./heeelo.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [NotSubClass.java](./NotSubClass.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Singleton.java](./Singleton.java)
+- 🤣 [SubClass.java](./SubClass.java)

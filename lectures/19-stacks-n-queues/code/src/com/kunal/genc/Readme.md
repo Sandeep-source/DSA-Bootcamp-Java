@@ -1,0 +1,13 @@
+## Tables of content
+- 🤣 [CircularQueue.md](./CircularQueue.md)
+- 🤣 [CustomQueue.md](./CustomQueue.md)
+- 🤣 [CustomStack.md](./CustomStack.md)
+- 🤣 [DynamicQueue.md](./DynamicQueue.md)
+- 🤣 [DynamicStack.md](./DynamicStack.md)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [InBuiltExamples.md](./InBuiltExamples.md)
+- 🤣 [index.md](./index.md)
+- 🤣 [QueueMain.md](./QueueMain.md)
+- 🤣 [Readme.md](./Readme.md)
+- 🤣 [StackException.md](./StackException.md)
+- 🤣 [StackMain.md](./StackMain.md)

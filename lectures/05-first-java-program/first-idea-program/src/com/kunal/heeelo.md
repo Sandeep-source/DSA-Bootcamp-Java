@@ -1,0 +1,12 @@
+## Tables of content
+- 🤣 [Basics.java](./Basics.java)
+- 🤣 [hello.html](./hello.html)
+- 🤣 [index.html](./index.html)
+- 🤣 [Inputs.java](./Inputs.java)
+- 🤣 [Main.java](./Main.java)
+- 🤣 [Prime.java](./Prime.java)
+- 🤣 [Primitives.java](./Primitives.java)
+- 🤣 [readme.md](./readme.md)
+- 🤣 [Sum.java](./Sum.java)
+- 🤣 [Temperature.java](./Temperature.java)
+- 🤣 [TypeCasting.java](./TypeCasting.java)
