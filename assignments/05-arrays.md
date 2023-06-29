@@ -40,9 +40,9 @@
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/)
-- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
 - [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
