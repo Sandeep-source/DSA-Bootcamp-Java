@@ -1,6 +1,6 @@
 # [Video Link](https://youtu.be/vvanI8NRlSI)
 
-- [x] [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java- [x]com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
+- [x] [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java-com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
 - [x] [Define a program to find out whether a given number is even or odd.](https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/)
 
